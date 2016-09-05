@@ -248,4 +248,4 @@ var mysqlModel = {
 	}
 };
 
-module.exports = mysqlModel;
+exports = mysqlModel;
